@@ -1,3 +1,5 @@
+This project was part of the 'SCC.413 Applied Data Mining' module of Lancaster University. 
+
 Follow the below instructions to get the search engine working
 
 STEPS:
