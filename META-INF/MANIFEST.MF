@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lucene-core-6.0.0.jar lucene-queries-6.0.0.jar lucene-quer
+ yparser-6.0.0.jar lucene-analyzers-common-6.0.0.jar mysql-connector-j
+ ava-5.1.38-bin.jar
+Main-Class: search
+
